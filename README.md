@@ -1,7 +1,8 @@
 # Curso Machine Learning ofertado pelo LEAD - Centro de Pesquisa, Desenvolvimento e Inovação Dell.
 #### Repositório contendo arquivos desenvolvidos durante o curso de Machine Learning.
 <br>
-<img src="https://lh3.googleusercontent.com/proxy/Gno-mJJOoqa1ZAASs283n6kMXBlmGYsAmI4YB6U5C1TBSuhgkUnyjWZILUZcHwf7Ufn0E3onETH83BCzFc0q0C6PmcBudQ6tnymv5swJQQB1jVGOqrqmZn2muahJYoikDdk">
+
+<img src="https://media-exp1.licdn.com/dms/image/C4D1BAQFYCnuwAduFPA/company-background_10000/0?e=2159024400&v=beta&t=dDmTMozM1sAanEIusR_jmkKYY94UcQiaLxDa6j7np0I" />
 
 <hr>
 
